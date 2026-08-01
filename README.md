@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔡 Case Converter
+# 🔤 Case Converter
 
 ### Use Case Converter free on ToolAdda — quick, accurate, and browser-based.
 
